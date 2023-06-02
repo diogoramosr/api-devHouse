@@ -33,3 +33,12 @@
 * POST /houses/:house_id/reserve: realiza a reserva de uma casa específica.
 * GET /reserves: retorna a lista de todas as reservas realizadas.
 * DELETE /reserves/cancel: cancela uma reserva com base no seu identificador único.
+
+<p>Exemplo de aplicação utilizando a API DevHouse:
+  
+<div align="center">
+  
+  ![screen](https://github.com/diogoramosr/api-devHouse/assets/100318805/97354b9f-3099-4c57-a761-f9de84bf015b)
+</div>
+
+---
